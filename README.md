@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/r_viictor08/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <br>    
     
-# Oi, eu sou Raul! 
+# Oi, eu sou Raul Paiva! 
 
 <a href="https://www.youtube.com/c/mrbeastbrasil"> <img alt="youtube" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link"/>
 <a href="https://pt.wikipedia.org/wiki/HTML5"> <img alt="github" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link"/>
@@ -26,6 +26,5 @@
 
 ### Sobre mim
 Sou desenvolvedor {backend, frontend e mobile} 💫
-
-- [Cursos] 👨🏼‍🏫 - São cursos técnicos em diversas tecnologias, como JavaScript, PHP, Git e muito mais...
+- 👨🏼‍🏫 - São cursos técnicos em diversas tecnologias, como JavaScript, PHP, Git e muito mais...
 - 💻 - Utilizando a internet e aprendendo com isso.
